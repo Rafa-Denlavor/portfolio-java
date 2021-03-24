@@ -1,4 +1,4 @@
-package nivelBasico.Exercicios.FourExercice;
+package basicLevel.Exercice.ExerciceFour;
 
 public class calculos {
 	public static void main(String[] args) {

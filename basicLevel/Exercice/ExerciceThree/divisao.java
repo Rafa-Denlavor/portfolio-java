@@ -1,4 +1,4 @@
-package nivelBasico.Exercicios.ThreeExercice;
+package basicLevel.Exercice.ExerciceThree;
 
 import java.util.Scanner;
 

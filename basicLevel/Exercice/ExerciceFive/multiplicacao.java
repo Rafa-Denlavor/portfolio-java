@@ -1,4 +1,4 @@
-package nivelBasico.Exercicios.FiveExercice;
+package basicLevel.Exercice.ExerciceFive;
 
 import java.util.Scanner;
 
@@ -19,4 +19,3 @@ public class multiplicacao {
 		+ primeiroNumero + " X " + segundoNumero + " = " + calculaMultiplicacao);
 	}		
 }
-

@@ -1,4 +1,4 @@
-package nivelBasico.Exercicios.TwoExercise;
+package basicLevel.Exercice.ExerciseTwo;
 
 import java.util.Scanner;
 
