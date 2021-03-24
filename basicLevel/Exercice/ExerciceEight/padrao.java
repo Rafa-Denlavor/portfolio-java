@@ -10,4 +10,3 @@ public class padrao {
 		System.out.println(" JJ aa V aa");
 	}
 }
-
