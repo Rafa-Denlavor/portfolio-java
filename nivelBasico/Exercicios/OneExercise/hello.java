@@ -1,4 +1,4 @@
-package Exercicios.OneExercise;
+package nivelBasico.Exercicios.OneExercise;
 
 import java.util.Scanner;
 
