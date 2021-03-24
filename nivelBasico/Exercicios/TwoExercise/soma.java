@@ -3,11 +3,12 @@ package nivelBasico.Exercicios.TwoExercise;
 import java.util.Scanner;
 
 public class soma {
+
+	private static Scanner input = new Scanner(System.in);
 	
 	public static void main(String[] args) {
 		
 //		Exemplo 1:
-		Scanner input = new Scanner(System.in);
 		System.out.print("Digite o primeiro número: ");
 		int primeiroNumero = input.nextInt();
 		System.out.print("Digite o segundo número: ");
@@ -22,6 +23,7 @@ public class soma {
 //		int primeiroNumero = 33;
 //		int segundoNumero = 66;
 //		int soma = primeiroNumero + segundoNumero;
+
 //		System.out.println("Resultado: " + soma);
 
 	}

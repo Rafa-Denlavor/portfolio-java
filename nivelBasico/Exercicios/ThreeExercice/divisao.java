@@ -3,11 +3,12 @@ package nivelBasico.Exercicios.ThreeExercice;
 import java.util.Scanner;
 
 public class divisao {
+
+	private static Scanner input = new Scanner(System.in);
+
 	public static void main(String[] args) {
 		
-//		Exemplo 1:
-		Scanner input = new Scanner(System.in);
-		
+//		Exemplo 1:		
 		System.out.print("Digite o primeiro número: ");
 		int primeiroNumero = input.nextInt();
 		
